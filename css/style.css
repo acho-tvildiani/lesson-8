@@ -1,0 +1,7 @@
+.parent-div{
+    background-image: url(../img/eiffel-tower-paris-sunset-champs-elysees-evening-paris-sunset-france_193165-5.webp);
+    height: 500px;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
